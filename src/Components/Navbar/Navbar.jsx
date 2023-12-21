@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navbar-logo">
         <img src={logo} alt="" />
-        <p>Legehare Shop</p>
+        <p>Legehare Shopping</p>
       </div>
       <ul className="navbar-menu">
         <li
